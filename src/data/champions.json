@@ -1,0 +1,3501 @@
+[{
+  "name": "Aatrox",
+  "avatar": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/c/cc/AatroxSquare.png",
+  "baseStats": {
+    "Hp": 580,
+    "HpRegen": 3,
+    "Armor": 38,
+    "MR": 32.1,
+    "MovSpeed": 345,
+    "Resource": 0,
+    "ResourceRegen": 0,
+    "AD": 60,
+    "Range": 175,
+    "AS": 0.651
+  },
+  "growthStats": {
+    "Hp": 90,
+    "HpRegen": 1,
+    "Armor": 3.25,
+    "MR": 1.25,
+    "AD": 5,
+    "AS": 0,
+    "Resource": 0,
+    "ResourceRegen": 0
+  }
+}, {
+  "name": "Ahri",
+  "avatar": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/1/18/AhriSquare.png",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0,
+    "Resource": 25,
+    "ResourceRegen": 0.8
+  }
+}, {
+  "name": "Akali",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/6/6a/Akali_OriginalSquare.png",
+  "baseStats": {
+    "Hp": 575,
+    "HpRegen": 8,
+    "Armor": 23,
+    "MR": 37,
+    "MovSpeed": 345,
+    "Resource": 200,
+    "ResourceRegen": 50,
+    "AD": 62.4,
+    "Range": 125,
+    "AS": 0.625
+  },
+  "growthStats": {
+    "Hp": 95,
+    "HpRegen": 0.5,
+    "Armor": 3.5,
+    "MR": 1.25,
+    "AD": 3.3,
+    "AS": 0,
+    "Resource": 0,
+    "ResourceRegen": 0
+  }
+}, {
+  "name": "Alistar",
+  "avatar": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/3/34/AlistarSquare.png",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0,
+    "Resource": 40,
+    "ResourceRegen": 0.8
+  }
+}, {
+  "name": "Amumu",
+  "avatar": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/2/26/AmumuSquare.png",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0,
+    "Resource": 40,
+    "ResourceRegen": 0.525
+  }
+}, {
+  "name": "Anivia",
+  "avatar": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/0/01/AniviaSquare.png",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0,
+    "Resource": 25,
+    "ResourceRegen": 0.8
+  }
+}, {
+  "name": "Annie",
+  "avatar": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/6/6f/AnnieSquare.png",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0,
+    "Resource": 25,
+    "ResourceRegen": 0.8
+  }
+}, {
+  "name": "Aphelios",
+  "avatar": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/1/13/ApheliosSquare.png",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0,
+    "Resource": 42,
+    "ResourceRegen": 0.5
+  }
+}, {
+  "name": "Ashe",
+  "avatar": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/4/4a/AsheSquare.png",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0,
+    "Resource": 32,
+    "ResourceRegen": 0.4
+  }
+}, {
+  "name": "Aurelion Sol",
+  "avatar": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/c/c3/Aurelion_SolSquare.png",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0,
+    "Resource": 50,
+    "ResourceRegen": 0.8
+  }
+}, {
+  "name": "Azir",
+  "avatar": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/f/f7/AzirSquare.png",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0,
+    "Resource": 21,
+    "ResourceRegen": 0.8
+  }
+}, {
+  "name": "Bard",
+  "avatar": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/6/69/BardSquare.png",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0,
+    "Resource": 50,
+    "ResourceRegen": 0.45
+  }
+}, {
+  "name": "Blitzcrank",
+  "avatar": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/5/5b/BlitzcrankSquare.png",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0,
+    "Resource": 40,
+    "ResourceRegen": 0.8
+  }
+}, {
+  "name": "Brand",
+  "avatar": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/a/ab/BrandSquare.png",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0,
+    "Resource": 21,
+    "ResourceRegen": 0.6
+  }
+}, {
+  "name": "Braum",
+  "avatar": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/b/b6/BraumSquare.png",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0,
+    "Resource": 45,
+    "ResourceRegen": 0.8
+  }
+}, {
+  "name": "Caitlyn",
+  "avatar": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/e/e6/CaitlynSquare.png",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0,
+    "Resource": 35,
+    "ResourceRegen": 0.55
+  }
+}, {
+  "name": "Camille",
+  "avatar": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/1/13/CamilleSquare.png",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0,
+    "Resource": 32,
+    "ResourceRegen": 0.75
+  }
+}, {
+  "name": "Cassiopeia",
+  "avatar": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/c/ca/CassiopeiaSquare.png",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0,
+    "Resource": 40,
+    "ResourceRegen": 0.8
+  }
+}, {
+  "name": "Cho'gath",
+  "avatar": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/c/cc/ChoGathSquare.png",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0,
+    "Resource": 40,
+    "ResourceRegen": 0.45
+  }
+}, {
+  "name": "Corki",
+  "avatar": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/3/3d/CorkiSquare.png",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0,
+    "Resource": 34,
+    "ResourceRegen": 0.55
+  }
+}, {
+  "name": "Darius",
+  "avatar": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/5/54/DariusSquare.png",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0,
+    "Resource": 37.5,
+    "ResourceRegen": 0.35
+  }
+}, {
+  "name": "Diana",
+  "avatar": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/9/90/DianaSquare.png",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0,
+    "Resource": 25,
+    "ResourceRegen": 0.8
+  }
+}, {
+  "name": "Dr. Mundo",
+  "avatar": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/b/b0/DrMundoSquare.png",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0,
+    "Resource": 0,
+    "ResourceRegen": 0
+  }
+}, {
+  "name": "Draven",
+  "avatar": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/d/d7/DravenSquare.png",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0,
+    "Resource": 39,
+    "ResourceRegen": 0.65
+  }
+}, {
+  "name": "Ekko",
+  "avatar": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/e/ef/EkkoSquare.png",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0,
+    "Resource": 50,
+    "ResourceRegen": 0.8
+  }
+}, {
+  "name": "Elise",
+  "avatar": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/9/91/EliseSquare.png",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0,
+    "Resource": 50,
+    "ResourceRegen": 0.8
+  }
+}, {
+  "name": "Evelynn",
+  "avatar": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/5/5b/EvelynnSquare.png",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0,
+    "Resource": 42,
+    "ResourceRegen": 0.6
+  }
+}, {
+  "name": "Ezreal",
+  "avatar": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/c/c3/EzrealSquare.png",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0,
+    "Resource": 50,
+    "ResourceRegen": 0.65
+  }
+}, {
+  "name": "Fiddlesticks",
+  "avatar": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/7/7c/FiddlesticksSquare.png",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0,
+    "Resource": 28,
+    "ResourceRegen": 0.5
+  }
+}, {
+  "name": "Fiora",
+  "avatar": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/d/d2/FioraSquare.png",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0,
+    "Resource": 40,
+    "ResourceRegen": 0.7
+  }
+}, {
+  "name": "Fizz",
+  "avatar": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/d/db/FizzSquare.png",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0,
+    "Resource": 37,
+    "ResourceRegen": 0.8
+  }
+}, {
+  "name": "Galio",
+  "avatar": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/4/40/GalioSquare.png",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0,
+    "Resource": 40,
+    "ResourceRegen": 0.7
+  }
+}, {
+  "name": "Gangplank",
+  "avatar": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/f/fe/GangplankSquare.png",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0,
+    "Resource": 40,
+    "ResourceRegen": 0.7
+  }
+}, {
+  "name": "Garen",
+  "avatar": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/e/ea/GarenSquare.png",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0,
+    "Resource": 0,
+    "ResourceRegen": 0
+  }
+}, {
+  "name": "Gnar",
+  "avatar": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/6/6b/GnarSquare.png",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0,
+    "Resource": 0,
+    "ResourceRegen": 0
+  }
+}, {
+  "name": "Gragas",
+  "avatar": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/6/67/GragasSquare.png",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0,
+    "Resource": 47,
+    "ResourceRegen": 0.8
+  }
+}, {
+  "name": "Graves",
+  "avatar": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/2/26/GravesSquare.png",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0,
+    "Resource": 40,
+    "ResourceRegen": 0.7
+  }
+}, {
+  "name": "Hecarim",
+  "avatar": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/4/4c/HecarimSquare.png",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0,
+    "Resource": 40,
+    "ResourceRegen": 0.6
+  }
+}, {
+  "name": "Heimerdinger",
+  "avatar": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/5/58/HeimerdingerSquare.png",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0,
+    "Resource": 20,
+    "ResourceRegen": 0.8
+  }
+}, {
+  "name": "Illaoi",
+  "avatar": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/a/a7/IllaoiSquare.png",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0,
+    "Resource": 40,
+    "ResourceRegen": 0.75
+  }
+}, {
+  "name": "Irelia",
+  "avatar": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/7/72/IreliaSquare.png",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0,
+    "Resource": 30,
+    "ResourceRegen": 0.8
+  }
+}, {
+  "name": "Ivern",
+  "avatar": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/9/9d/IvernSquare.png",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0,
+    "Resource": 60,
+    "ResourceRegen": 0.75
+  }
+}, {
+  "name": "Janna",
+  "avatar": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/3/3f/JannaSquare.png",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0,
+    "Resource": 64,
+    "ResourceRegen": 0.4
+  }
+}, {
+  "name": "Jarvan IV",
+  "avatar": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/7/72/JarvanIVSquare.png",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0,
+    "Resource": 40,
+    "ResourceRegen": 0.45
+  }
+}, {
+  "name": "Jax",
+  "avatar": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/0/0f/JaxSquare.png",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0,
+    "Resource": 32,
+    "ResourceRegen": 0.7
+  }
+}, {
+  "name": "Jayce",
+  "avatar": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/a/aa/JayceSquare.png",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0,
+    "Resource": 45,
+    "ResourceRegen": 0.8
+  }
+}, {
+  "name": "Jhin",
+  "avatar": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/8/8b/JhinSquare.png",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0,
+    "Resource": 50,
+    "ResourceRegen": 0.8
+  }
+}, {
+  "name": "Jinx",
+  "avatar": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/e/e2/JinxSquare.png",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0,
+    "Resource": 50,
+    "ResourceRegen": 0.8
+  }
+}, {
+  "name": "Kai'sa",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Kalista",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Karma",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Karthus",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Kassadin",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Katarina",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Kayle",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Kayn",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Kennen",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Kha'zix",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Kindred",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Kled",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Kog'maw",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Leblanc",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Lee sin",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Leona",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Lissandra",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Lucian",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Lulu",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Lux",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Malphite",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Malzahar",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Maokai",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Master Yi",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Miss Fortune",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Mordekaiser",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Morgana",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Nami",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Nasus",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Nautilus",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Neeko",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Nidalee",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Nocturne",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Nunu",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Olaf",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Orianna",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Ornn",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Pantheon",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Poppy",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Pyke",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Qiyana",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Quinn",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Rakan",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Rammus",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Rek'sai",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Renekton",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Rengar",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Riven",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Rumble",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Ryze",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Sejuani",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Senna",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Sett",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Shaco",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Shen",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Shyvana",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Singed",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Sion",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Sivir",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Skarner",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Sona",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Soraka",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Swain",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Sylas",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Syndra",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Tahm Kench",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Taliyah",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Talon",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Taric",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Teemo",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Thresh",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Tristana",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Trundle",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Tryndamere",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Twisted Fate",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Twitch",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Udyr",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Urgot",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Varus",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Vayne",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Veigar",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Vel'koz",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Vi",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Viktor",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Vladimir",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Volibear",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Warwick",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Wukong",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Xayah",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Xerath",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Xin Zhao",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Yasuo",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Yorick",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Yuumi",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Zac",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Zed",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Ziggs",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Zilean",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Zoe",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}, {
+  "name": "Zyra",
+  "avatar": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest?cb=20181110233714",
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0
+  }
+}]

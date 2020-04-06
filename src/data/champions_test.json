@@ -1,0 +1,63 @@
+[{
+  "name": "Aatrox",
+  "avatar": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/c/cc/AatroxSquare.png",
+  "spells": {
+    "Q": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/3/34/The_Darkin_Blade.png",
+    "W": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/6/63/Infernal_Chains.png",
+    "E": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/0/0a/Umbral_Dash.png",
+    "R": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/d/de/World_Ender.png"
+  },
+  "baseStats": {
+    "Hp": 580,
+    "HpRegen": 3,
+    "Armor": 38,
+    "MR": 32.1,
+    "MovSpeed": 345,
+    "Resource": 0,
+    "ResourceRegen": 0,
+    "AD": 60,
+    "Range": 175,
+    "AS": 0.651
+  },
+  "growthStats": {
+    "Hp": 90,
+    "HpRegen": 1,
+    "Armor": 3.25,
+    "MR": 1.25,
+    "Resource": 0,
+    "ResourceRegen": 0,
+    "AD": 5,
+    "AS": 0
+  }
+}, {
+  "name": "Ahri",
+  "avatar": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/1/18/AhriSquare.png",
+  "spells": {
+    "Q": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/1/19/Orb_of_Deception.png",
+    "W": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/a/a8/Fox-Fire.png",
+    "E": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/0/04/Charm.png",
+    "R": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/8/86/Spirit_Rush.png"
+  },
+  "baseStats": {
+    "Hp": 526,
+    "HpRegen": 6.5,
+    "Armor": 20.88,
+    "MR": 30,
+    "MovSpeed": 330,
+    "Resource": 418,
+    "ResourceRegen": 8,
+    "AD": 53.04,
+    "Range": 550,
+    "AS": 0.668
+  },
+  "growthStats": {
+    "Hp": 92,
+    "HpRegen": 0.6,
+    "Armor": 3.5,
+    "MR": 0.5,
+    "AD": 3,
+    "AS": 0,
+    "Resource": 25,
+    "ResourceRegen": 0.8
+  }
+}]
